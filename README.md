@@ -76,7 +76,7 @@ plt.show()
 
 ## Output:
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](EX8_1.png)
-![EX8_2](EX8_2)
+![EX8_2](EX8_2.png)
 
 
 ## Result:
